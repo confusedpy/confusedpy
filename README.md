@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @confusedpy
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to for mentor
